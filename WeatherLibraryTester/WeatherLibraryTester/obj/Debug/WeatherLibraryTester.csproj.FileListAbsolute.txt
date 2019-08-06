@@ -1,0 +1,41 @@
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\bin\Debug\WeatherLibraryTester.exe.config
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\bin\Debug\WeatherLibraryTester.exe
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\bin\Debug\WeatherLibraryTester.pdb
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.csprojAssemblyReference.cache
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.Properties.Resources.resources
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.TemperatureConversion.resources
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.csproj.GenerateResource.cache
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.csproj.CoreCompileInputs.cache
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.exe
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.pdb
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.WeatherCalculator.resources
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.HeatIndex.resources
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.DewPoint.resources
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.Humidity.resources
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.MixingRatio.resources
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.VirtualTemperature.resources
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.VolumeOfRain.resources
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.WindChill.resources
+C:\Users\Cara\Documents\CSC 253\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.WindSpeed.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\bin\Debug\WeatherLibraryTester.exe.config
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\bin\Debug\WeatherLibraryTester.exe
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\bin\Debug\WeatherLibraryTester.pdb
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.csprojAssemblyReference.cache
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.DewPoint.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.HeatIndex.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.Humidity.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.MixingRatio.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.VirtualTemperature.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.VolumeOfRain.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.WeatherCalculator.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.Properties.Resources.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.TemperatureConversion.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.WindChill.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.WindSpeed.resources
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.csproj.GenerateResource.cache
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.csproj.CoreCompileInputs.cache
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.exe
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.pdb
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\bin\Debug\WeatherLibrary.dll
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\bin\Debug\WeatherLibrary.pdb
+C:\Users\Pimp\Desktop\School - Durham Tech\School Spring 2019\CSC-253 - C#\WeatherLibraryTester\WeatherLibraryTester\obj\Debug\WeatherLibraryTester.csproj.CopyComplete
